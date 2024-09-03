@@ -12,7 +12,7 @@ function updateDisplay() {
 
 updateDisplay();
 
-const keys = document.querySelector('.elements'); // Updated selector to match the HTML
+const keys = document.querySelector('.elements');
 keys.addEventListener('click', (event) => {
     const { target } = event;
     const { value } = target;
@@ -58,9 +58,11 @@ function inputDigit(digit) {
         calculator.displayValue = displayValue === '0' ? digit : displayValue + digit;
     }
 }
-function removelast(){
-    calculator.displayValue = calculator.displayValue%10;
+
+function removelast() {
+    calculator.displayValue = calculator.displayValue.slice(0, -1) || '0';
 }
+
 function inputDecimal(dot) {
     if (calculator.waitingForSecondOperand === true) return;
 
