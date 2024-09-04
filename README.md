@@ -46,3 +46,7 @@ Contributions are welcome! If you have suggestions for improvements or features,
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://utsavvachhani.github.io/CODSOFT_CALCULATOR/LICENSE) file for details.
+![fram - 1](https://github.com/user-attachments/assets/2fea76e1-7ec6-444f-b6cc-62eea9a0fb8a)
+![fram - 2](https://github.com/user-attachments/assets/0cf71c0c-cf1f-4521-97f7-4bab5955d63c)
+![fram - 3](https://github.com/user-attachments/assets/ce574e1c-2485-4f9f-bdb3-64788ece006a)
+![fram - 4](https://github.com/user-attachments/assets/3e4f8ca1-2fb2-4c68-bc97-6e73714a0351)
